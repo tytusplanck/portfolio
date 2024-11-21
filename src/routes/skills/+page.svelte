@@ -13,23 +13,47 @@
         <ul class="space-y-2">
           <li class="flex items-center gap-2">
             <span class="text-purple-400">▹</span>
-            TypeScript/JavaScript
+            TypeScript
           </li>
           <li class="flex items-center gap-2">
             <span class="text-purple-400">▹</span>
-            Svelte/SvelteKit
+            JavaScript
           </li>
           <li class="flex items-center gap-2">
             <span class="text-purple-400">▹</span>
-            React/Next.js
+            Svelte
           </li>
           <li class="flex items-center gap-2">
             <span class="text-purple-400">▹</span>
-            Angular/NgRx
+            SvelteKit
           </li>
           <li class="flex items-center gap-2">
             <span class="text-purple-400">▹</span>
-            HTML/CSS/SCSS
+            React
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-purple-400">▹</span>
+            Next.js
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-purple-400">▹</span>
+            Angular
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-purple-400">▹</span>
+            NgRx
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-purple-400">▹</span>
+            HTML
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-purple-400">▹</span>
+            CSS
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-purple-400">▹</span>
+            SCSS
           </li>
           <li class="flex items-center gap-2">
             <span class="text-purple-400">▹</span>
@@ -41,7 +65,7 @@
           </li>
           <li class="flex items-center gap-2">
             <span class="text-purple-400">▹</span>
-            D3.js/Data Visualization
+            D3.js
           </li>
         </ul>
       </div>
@@ -52,7 +76,23 @@
         <ul class="space-y-2">
           <li class="flex items-center gap-2">
             <span class="text-purple-400">▹</span>
-            Java/Spring Boot
+            Java
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-purple-400">▹</span>
+            Spring Framework
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-purple-400">▹</span>
+            Spring Boot
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-purple-400">▹</span>
+            Spring Security
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="text-purple-400">▹</span>
+            Spring Data JPA
           </li>
           <li class="flex items-center gap-2">
             <span class="text-purple-400">▹</span>
@@ -68,7 +108,7 @@
           </li>
           <li class="flex items-center gap-2">
             <span class="text-purple-400">▹</span>
-            Bash Scripting
+            Bash
           </li>
         </ul>
       </div>
