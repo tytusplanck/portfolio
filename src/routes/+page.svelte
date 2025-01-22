@@ -1,10 +1,22 @@
-<div class="min-h-screen bg-gradient-to-br from-purple-900 to-black text-white">
-  <div class="container mx-auto px-4 py-16 md:py-32">
-    <div class="max-w-3xl mx-auto text-center">
+<div class="min-h-screen bg-white text-slate-900 w-full">
+  <div class="container mx-auto px-4 py-16 md:py-32 bg-white">
+    <div class="max-w-3xl mx-auto text-center relative bg-white">
+      <div class="mb-12 relative group">
+        <div
+          class="absolute inset-0 bg-gradient-to-r from-blue-100 to-purple-100 rounded-full transform group-hover:scale-105 transition-transform duration-300"
+        ></div>
+        <img
+          src="/headshot.jpg"
+          alt="Tytus Planck"
+          class="w-64 h-64 md:w-72 md:h-72 object-cover mx-auto rounded-full shadow-xl transform group-hover:scale-102 transition-all duration-300 hover:shadow-2xl"
+          style="object-position: center 30%;"
+        />
+      </div>
+
       <h1 class="text-4xl md:text-6xl font-bold mb-6 animate-fade-in">
-        Hi, I'm <span class="text-purple-400">Tytus Planck</span> 👋
+        Hi, I'm <span class="text-slate-600">Tytus Planck</span> 👋
       </h1>
-      <p class="text-xl md:text-2xl mb-12 opacity-90">
+      <p class="text-xl md:text-2xl mb-12 text-slate-700">
         Front-end developer specializing in modern web technologies and creating
         delightful user experiences
       </p>
@@ -14,7 +26,7 @@
           href="https://github.com/tytusplanck"
           target="_blank"
           rel="noopener noreferrer"
-          class="text-white hover:text-purple-400 transition-colors"
+          class="text-slate-700 hover:text-slate-900 transition-colors"
         >
           <svg
             class="w-8 h-8"
@@ -33,7 +45,7 @@
           href="https://bsky.app/profile/tytusplanck.com"
           target="_blank"
           rel="noopener noreferrer"
-          class="text-white hover:text-purple-400 transition-colors"
+          class="text-slate-700 hover:text-slate-900 transition-colors"
         >
           <svg
             class="w-8 h-8"
@@ -52,19 +64,19 @@
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
         <a
           href="/projects"
-          class="bg-purple-900/30 backdrop-blur-sm rounded-lg p-6 hover:transform hover:scale-105 transition-all"
+          class="bg-slate-50 shadow-sm rounded-lg p-6 hover:transform hover:scale-105 transition-all"
         >
           <h2 class="text-2xl font-bold mb-4">Projects</h2>
-          <p class="opacity-80">
+          <p class="text-slate-600">
             Explore my front-end projects and UI experiments
           </p>
         </a>
         <a
           href="/skills"
-          class="bg-purple-900/30 backdrop-blur-sm rounded-lg p-6 hover:transform hover:scale-105 transition-all"
+          class="bg-slate-50 shadow-sm rounded-lg p-6 hover:transform hover:scale-105 transition-all"
         >
           <h2 class="text-2xl font-bold mb-4">Skills</h2>
-          <p class="opacity-80">
+          <p class="text-slate-600">
             TypeScript, Svelte, CSS, and other modern web frameworks
           </p>
         </a>
@@ -72,7 +84,7 @@
 
       <a
         href="mailto:tytusplanck@gmail.com"
-        class="inline-block bg-purple-500 text-white font-bold py-3 px-8 rounded-full hover:bg-purple-400 transition-colors"
+        class="inline-block bg-slate-700 text-white font-bold py-3 px-8 rounded-full hover:bg-slate-600 transition-colors"
       >
         Get in Touch
       </a>
