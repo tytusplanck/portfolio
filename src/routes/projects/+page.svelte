@@ -8,7 +8,7 @@
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
       <!-- Decoding Disney -->
-      <div class="bg-slate-50 shadow-sm rounded-lg p-6">
+      <div class="bg-slate-50 border border-slate-200 rounded-lg p-6">
         <h2 class="text-2xl font-bold mb-4">Decoding Disney</h2>
         <p class="text-slate-600 mb-4">
           A comprehensive blog built with Next.js that helps travelers maximize
@@ -36,7 +36,7 @@
       </div>
 
       <!-- Design System Work -->
-      <div class="bg-slate-50 shadow-sm rounded-lg p-6">
+      <div class="bg-slate-50 border border-slate-200 rounded-lg p-6">
         <h2 class="text-2xl font-bold mb-4">Meridian Design System</h2>
         <p class="text-slate-600 mb-4">
           Led development of a comprehensive design system with 45+ components,
@@ -55,7 +55,7 @@
       </div>
 
       <!-- Media Platform -->
-      <div class="bg-slate-50 shadow-sm rounded-lg p-6">
+      <div class="bg-slate-50 border border-slate-200 rounded-lg p-6">
         <h2 class="text-2xl font-bold mb-4">Retail Media Platform</h2>
         <p class="text-slate-600 mb-4">
           Developed a full-stack retail media platform using Angular and Spring

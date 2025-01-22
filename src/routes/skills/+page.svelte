@@ -8,223 +8,223 @@
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       <!-- Frontend Development -->
-      <div class="bg-slate-50 shadow-sm rounded-lg p-6">
+      <div class="bg-slate-50 border border-slate-200 rounded-lg p-6">
         <h2 class="text-2xl font-bold mb-4">Frontend Development</h2>
         <ul class="space-y-2">
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            TypeScript
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">TypeScript</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            JavaScript
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">JavaScript</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Svelte
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Svelte</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            SvelteKit
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">SvelteKit</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            React
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">React</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Next.js
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Next.js</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Angular
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Angular</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            NgRx
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">NgRx</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            HTML
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">HTML</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            CSS
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">CSS</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            SCSS
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">SCSS</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Tailwind CSS
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Tailwind CSS</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            StencilJS
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">StencilJS</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            D3.js
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">D3.js</span>
           </li>
         </ul>
       </div>
 
       <!-- Backend Development -->
-      <div class="bg-slate-50 shadow-sm rounded-lg p-6">
+      <div class="bg-slate-50 border border-slate-200 rounded-lg p-6">
         <h2 class="text-2xl font-bold mb-4">Backend Development</h2>
         <ul class="space-y-2">
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Java
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Java</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Spring Framework
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Spring Framework</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Spring Boot
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Spring Boot</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Spring Security
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Spring Security</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Spring Data JPA
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Spring Data JPA</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Node.js
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Node.js</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            REST APIs
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">REST APIs</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Python
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Python</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Bash
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Bash</span>
           </li>
         </ul>
       </div>
 
       <!-- Testing & Quality -->
-      <div class="bg-slate-50 shadow-sm rounded-lg p-6">
+      <div class="bg-slate-50 border border-slate-200 rounded-lg p-6">
         <h2 class="text-2xl font-bold mb-4">Testing & Quality</h2>
         <ul class="space-y-2">
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Playwright
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Playwright</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Jest
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Jest</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Jasmine
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Jasmine</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Cypress
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Cypress</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            JUnit
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">JUnit</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            axe-core
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">axe-core</span>
           </li>
         </ul>
       </div>
 
       <!-- Databases -->
-      <div class="bg-slate-50 shadow-sm rounded-lg p-6">
+      <div class="bg-slate-50 border border-slate-200 rounded-lg p-6">
         <h2 class="text-2xl font-bold mb-4">Databases</h2>
         <ul class="space-y-2">
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Oracle Exadata
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Oracle Exadata</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            MongoDB
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">MongoDB</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            PostgreSQL
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">PostgreSQL</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            SQL
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">SQL</span>
           </li>
         </ul>
       </div>
 
       <!-- DevOps & Tools -->
-      <div class="bg-slate-50 shadow-sm rounded-lg p-6">
+      <div class="bg-slate-50 border border-slate-200 rounded-lg p-6">
         <h2 class="text-2xl font-bold mb-4">DevOps & Tools</h2>
         <ul class="space-y-2">
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Git/GitHub
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Git/GitHub</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Docker
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Docker</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            GitHub Actions
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">GitHub Actions</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Azure Kubernetes Service
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Azure Kubernetes Service</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            TeamCity
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">TeamCity</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Grafana/Prometheus
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Grafana/Prometheus</span>
           </li>
         </ul>
       </div>
 
       <!-- Development Practices -->
-      <div class="bg-slate-50 shadow-sm rounded-lg p-6">
+      <div class="bg-slate-50 border border-slate-200 rounded-lg p-6">
         <h2 class="text-2xl font-bold mb-4">Development Practices</h2>
         <ul class="space-y-2">
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            ShapeUp (Basecamp)
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">ShapeUp (Basecamp)</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Kanban
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Kanban</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Scrum
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Scrum</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            TDD
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">TDD</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            CI/CD
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">CI/CD</span>
           </li>
-          <li class="flex items-center gap-2">
-            <span class="text-slate-600">▹</span>
-            Micro-frontends
+          <li class="flex items-center gap-3">
+            <span class="text-slate-400 text-sm">—</span>
+            <span class="text-slate-700">Micro-frontends</span>
           </li>
         </ul>
       </div>
