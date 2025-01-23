@@ -7,6 +7,34 @@
     <h1 class="text-4xl md:text-5xl font-bold mb-8">Projects</h1>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- NameMint -->
+      <div class="bg-slate-50 border border-slate-200 rounded-lg p-6">
+        <h2 class="text-2xl font-bold mb-4">NameMint</h2>
+        <p class="text-slate-600 mb-4">
+          An AI-powered name generation application that helps users find unique
+          and meaningful names for various occasions, including baby names.
+          Built with modern web technologies and clean UI/UX design.
+        </p>
+        <div class="mb-4">
+          <div class="flex flex-wrap gap-2 text-sm">
+            <span class="bg-slate-100 px-2 py-1 rounded">Next.js</span>
+            <span class="bg-slate-100 px-2 py-1 rounded">Supabase</span>
+            <span class="bg-slate-100 px-2 py-1 rounded">OpenAI</span>
+            <span class="bg-slate-100 px-2 py-1 rounded">Vercel</span>
+          </div>
+        </div>
+        <div class="flex gap-2">
+          <a
+            href="https://v0-name-mint-asgrogwrm6f.vercel.app"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-slate-600 hover:text-slate-800"
+          >
+            Live Site
+          </a>
+        </div>
+      </div>
+
       <!-- Decoding Disney -->
       <div class="bg-slate-50 border border-slate-200 rounded-lg p-6">
         <h2 class="text-2xl font-bold mb-4">Decoding Disney</h2>
